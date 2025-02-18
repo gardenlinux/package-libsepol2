@@ -1,1 +1,2 @@
 git_src_commit 9405dc0944b19ad1e2b927b103df13169d61cc83 https://salsa.debian.org/lts-team/packages/libsepol
+version_suffix=gl0
